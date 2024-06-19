@@ -6,4 +6,4 @@ The logic.js file contains the code for the application, and the style.css conta
 
 # Resources Used
 
-XpertLearning system was used to help create the legend and CSS styling needed for legend to appear on map.
+XpertLearning system and AskBCS (ASK-311242) were used to help create the legend and CSS styling needed for legend to appear on map.
